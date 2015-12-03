@@ -46,7 +46,7 @@ for entry in test:
 
 wordList = []
 for key, value in adjDict.iteritems():
-	if value>10:
+	if value>5:
 		wordList.append(key)
 			
 
